@@ -3,7 +3,7 @@ Welcome to ✨ my Github ✨, I hope I can code a lot here!!!
 - I am currently working hard! very!
 - 🦾 Reactjs Developer / UI UX Designer 
 - 🐱 I 🩷 my cat, if you wanna see a pic of him feel free to reach out :)
-- 💬 Reach me: xueeryuki.xu@alumni.utoronto.ca
+- 💬 Reach me: xueeryuki.xu@mail.utoronto.ca
 - Hope you have an amazing day 🎠
 
 <!--
